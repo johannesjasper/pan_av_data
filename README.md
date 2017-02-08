@@ -4,6 +4,7 @@ This Repository holds data from the PAN@CLEF Author Verification challenge.
 The datasets are publicly available at http://pan.webis.de/data.html/.
 This repo only holds the english documents with a normalized directory structure.
 
+```
 @INPROCEEDINGS{juola:2013,
   AUTHOR =	 {Patrick Juola and Efstathios Stamatatos},
   BOOKTITLE =	 {{CLEF 2013 Evaluation Labs and Workshop -- Working Notes Papers, 23-26 September, Valencia, Spain}},
@@ -18,7 +19,9 @@ This repo only holds the english documents with a normalized directory structure
   URL =		 {},
   YEAR =	 {2013},
 }
+```
 
+```
 @INPROCEEDINGS{stamatatos:2014,
   AUTHOR =	 {Efstathios Stamatatos and Walter Daelemans and Ben Verhoeven and Martin Potthast and Benno Stein and Patrick Juola and {Miguel A.} Sanchez-Perez and Alberto Barr{\'o}n-Cede{\~n}o},
   BOOKTITLE =	 {{CLEF 2014 Evaluation Labs and Workshop -- Working Notes Papers, 15-18 September, Sheffield, UK}},
@@ -33,7 +36,9 @@ This repo only holds the english documents with a normalized directory structure
   URL =		 {},
   YEAR =	 {2014},
 }
+```
 
+```
 @INPROCEEDINGS{stamatatos:2015,
   AUTHOR =	 {Efstathios Stamatatos and Walter Daelemans amd Ben Verhoeven and Patrick Juola and Aurelio L{\'o}pez-L{\'o}pez and Martin Potthast and Benno Stein},
   BOOKTITLE =	 {{CLEF 2015 Evaluation Labs and Workshop -- Working Notes Papers, 8-11 September, Toulouse, France}},
@@ -48,3 +53,4 @@ This repo only holds the english documents with a normalized directory structure
   URL =		 {},
   YEAR =	 {2015},
 }
+```
